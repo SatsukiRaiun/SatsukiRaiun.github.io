@@ -1,4 +1,4 @@
-![桜月ヲンラヰン リンクバナー (787x425 101kB)](./image/satsuki_online_787x425.jpg)
+![桜月ヲンラヰン リンクバナー (787x425 101kB)](https://raw.githubusercontent.com/SatsukiRaiun/SatsukiRaiun.github.io/refs/heads/master/image/satsuki_online_787x425.jpg)
 
 桜月ヲンラヰン Since 2026年02月14日
 
