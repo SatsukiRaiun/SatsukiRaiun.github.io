@@ -3,7 +3,7 @@ The legend began here!
 
 ## 目的と機能
 
-* 技術ブログとエッセイ
+* 技術ブログとエッセイ(ポエム)
 * 個人ブログ (日淡飼育)
 * ソフトウェア開発
 * オープンソース翻訳: Genode / Sculpt OS, Jancy, Pharo, Seed7 周辺
