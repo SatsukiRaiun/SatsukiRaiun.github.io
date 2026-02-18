@@ -3,12 +3,27 @@
 桜月ヲンラヰン Since 2026年02月14日
 
 ## 目次
- * 日淡関連
- * オープンソース翻訳
- * Pharo (and Smalltalk variants)
- * Genode
- * ソフトウェア開発
+ * アクアリウム
+   * 基礎知識
+   * 錦鯉
+   * めだか
+   * よしのぼり
+   * Awesome Nittan
+ * オープンソース翻訳と解説
+   * Genode
+   * Jancy
+   * Pharo
+   * Seed7
+   * ...Other (Old Goodies)
+   * ソフトウェア開発
  * ポエムやエッセイなどの読み物
+   * .diary: 日誌
+   * .chat: 議事録など
+   * .notes: 備忘録
+   * .tech: 技術系
+   * .wiki: ウィキ
+ * 掲示板: 閉鎖しました。
+ * リンク
 
 ---
 Copyright(C)2026, 桜月雷雲 -Satsuki Raiun- All Rights Reserved.
