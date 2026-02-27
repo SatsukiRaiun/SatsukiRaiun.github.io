@@ -17,7 +17,7 @@
    * [...Junkyard](https://github.com/SatsukiRaiun/junkyard/)
    * ソフトウェア開発
  * ポエムやエッセイなどの読み物
-   * .diary: 日誌
+   * [.diary](diary/index): 日誌
    * .chat: 議事録など
    * .notes: 備忘録
    * .tech: 技術系
